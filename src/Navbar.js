@@ -24,6 +24,8 @@ export default function Navbar(props) {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
+        
+        {/* changes for git hub */}
 
         {/* Navbar links */}
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
